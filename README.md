@@ -2,9 +2,9 @@
 Questo repository è una raccolta delle mie idee per vari progetti. Ogni idea è organizzata in una cartella separata e contiene ulteriori dettagli e appunti.
 
 ## Indice dei Progetti
-2. [raccolta_idee_progetti](raccolta%20idee%20progetti.md): idee e documentazione riguardante la gestione dell'itera repository
-3. [Nome del Progetto 2](./NomeCartellaProgetto2/README.md) - Breve descrizione del progetto 2
-4. [Nome del Progetto 3](./NomeCartellaProgetto3/README.md) - Breve descrizione del progetto 3
+1. [raccolta_idee_progetti](raccolta%20idee%20progetti.md): idee e documentazione riguardante la gestione dell'itera repository
+2. [WebApp_collab](./WebApp_collab/): progetto per un applicazione web da sviluppare assieme
+3. [Nome del Progetto 3](./NomeCartellaProgetto3/README.md) - Breve descrizione del progetto 3
 
 ## Come Utilizzare Questo Repository Per aggiungere una nuova idea:
 ### Aggiungere una Nuova Idea Manualmente
@@ -38,5 +38,4 @@ Esempio:
 - `archive` contiene idee che sono state messe in pausa o abbandonate.
 
 ## Licenza
-Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE.md](LICENSE.md) per i dettagli.- [WebApp collab](./WebApp collab/): progetto per un applicazione web da sviluppare assieme
-- [WebApp_collab](./WebApp_collab/): progetto per un applicazione web da sviluppare assieme
+Questo progetto è distribuito sotto la Licenza GPLv3 - vedi il file [LICENSE.md](LICENSE.md) per i dettagli.
