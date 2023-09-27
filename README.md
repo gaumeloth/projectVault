@@ -2,7 +2,7 @@
 Questo repository è una raccolta delle mie idee per vari progetti. Ogni idea è organizzata in una cartella separata e contiene ulteriori dettagli e appunti.
 
 ## Indice dei Progetti
-1. [raccolta_idee_progetti](raccolta%20idee%20progetti.md): idee e documentazione riguardante la gestione dell'itera repository
+1. [raccolta_idee_progetti](raccolta_idee_progetti.md): idee e documentazione riguardante la gestione dell'itera repository
 2. [WebApp_collab](./WebApp_collab/): progetto per un applicazione web da sviluppare assieme
 3. [Nome del Progetto 3](./NomeCartellaProgetto3/README.md) - Breve descrizione del progetto 3
 
