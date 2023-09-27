@@ -38,4 +38,4 @@ Esempio:
 - `archive` contiene idee che sono state messe in pausa o abbandonate.
 
 ## Licenza
-Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE.md](LICENSE.md) per i dettagli.
+Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE.md](LICENSE.md) per i dettagli.- [WebApp collab](./WebApp collab/): progetto per un applicazione web da sviluppare assieme
