@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "7bdbdbd3cf657316",
+    "type": "split",
+    "children": [
+      {
+        "id": "6488ee5425e87401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "427ee2e796653115",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4cd7526ceb0c395a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raccolta_idee_progetti/raccolta idee progetti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80297928c693a3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "11cb633f8ee5fb9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "550f3fdd0206478d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c86106677eb821f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72a8d95b8e0e5bcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4faad14673a148a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "03aa402778e479d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01225f6cc4ba8a08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raccolta_idee_progetti/raccolta idee progetti.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd574cfac433e14c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raccolta_idee_progetti/raccolta idee progetti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "018541dcdd7d68a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32d8eacdcc01f11c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raccolta_idee_progetti/raccolta idee progetti.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "4cd7526ceb0c395a",
+  "lastOpenFiles": [
+    "README.md",
+    "raccolta_idee_progetti/raccolta idee progetti.md",
+    "raccolta_idee_progetti",
+    "README principale.md",
+    "Senza nome.md",
+    "add_project.sh",
+    "add_project.sh.download",
+    "README.md.download"
+  ]
+}
