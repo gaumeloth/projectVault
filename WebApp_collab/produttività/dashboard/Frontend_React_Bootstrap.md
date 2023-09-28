@@ -5,7 +5,7 @@
 
 Nella costruzione del frontend con React, l'obiettivo è creare componenti riutilizzabili che rappresentino le varie parti della dashboard di monitoraggio. Ecco un esempio di un componente per un grafico a torta:
 
-\`\`\`javascript
+```javascript
 import React from 'react';
 import { Pie } from 'react-chartjs-2';
 
@@ -24,13 +24,13 @@ const TaskPieChart = ({ data }) => {
 };
 
 export default TaskPieChart;
-\`\`\`
+```
 
 ## Utilizzo di Bootstrap per il Design Responsivo
 
 Bootstrap ti permette di creare un'interfaccia utente pulita e responsiva. Ecco un esempio di come utilizzare la griglia di Bootstrap:
 
-\`\`\`html
+```html
 <div className="container">
   <div className="row">
     <div className="col-md-6">
@@ -41,14 +41,14 @@ Bootstrap ti permette di creare un'interfaccia utente pulita e responsiva. Ecco 
     </div>
   </div>
 </div>
-\`\`\`
+```
 
 ## Integrazione tra Backend e Frontend
 
 L'interazione tra backend e frontend avviene generalmente attraverso API RESTful o GraphQL. Ecco un esempio di come recuperare i dati:
 
-\`\`\`javascript
+```javascript
 fetch('/api/tasks/')
   .then(response => response.json())
   .then(data => /* utilizzare i dati per aggiornare lo stato del componente */);
-\`\`\`
+```
