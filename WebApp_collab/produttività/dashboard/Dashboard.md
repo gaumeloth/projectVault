@@ -17,7 +17,7 @@ I KPI, o Key Performance Indicators, sono metriche utilizzate per valutare l'eff
 
 Il backend gestirà l'aggregazione e l'analisi dei dati che alimentano i KPI. Ecco un esempio di modello Django per memorizzare dati di un task:
 
-\`\`\`python
+```python
 from django.db import models
 
 class Task(models.Model):
@@ -25,15 +25,14 @@ class Task(models.Model):
     start_time = models.DateTimeField()
     end_time = models.DateTimeField()
     status = models.CharField(max_length=50)  # Completed, In Progress, etc.
-\`\`\`
-
+```
 [approfondimento](Backend_Django.md)
 
 ### Frontend (React + Bootstrap)
 
 Utilizzerai React per creare componenti della dashboard che mostrano vari KPI. Ecco un esempio di componente React:
 
-\`\`\`javascript
+```javascript
 import React from 'react';
 import Chart from 'chart.js';
 
@@ -45,7 +44,7 @@ const KPIComponent = ({ data }) => {
         </div>
     );
 };
-\`\`\`
+```
 
 [approfondimento](Frontend_React_Bootstrap.md)
 
@@ -55,8 +54,8 @@ const KPIComponent = ({ data }) => {
 2. Il frontend richiede i dati dei KPI attraverso API REST o GraphQL esposte dal backend.
 3. I componenti React visualizzano i KPI in forma di grafici o tabelle.
 
+[approfondimento](Flowa_and_Architecture.md)
+
 ### Versionamento del Codice (Git + GitHub)
 
 Per il versionamento del codice, è consigliabile seguire un modello come Git Flow.:
-
-[approfondimento](Flowa_and_Architecture.md)
