@@ -54,7 +54,7 @@ const KPIComponent = ({ data }) => {
 2. Il frontend richiede i dati dei KPI attraverso API REST o GraphQL esposte dal backend.
 3. I componenti React visualizzano i KPI in forma di grafici o tabelle.
 
-[approfondimento](Flowa_and_Architecture.md)
+[approfondimento](Flows_and_Architecture.md)
 
 ### Versionamento del Codice (Git + GitHub)
 
