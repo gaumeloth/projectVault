@@ -33,7 +33,7 @@ Infine, vediamo questo progetto come un'opportunità per imparare nuove tecnolog
 - Gestore di Password: Con opzioni di autenticazione a due fattori.
 - Time Tracker: Con report dettagliati e integrazione con altri strumenti di produttività.
 - Gestore di Snippet di Codice: Archiviazione e ricerca di snippet di codice.
-- [Dashboard di Monitoraggio: Un pannello per monitorare vari KPI e metriche.](produttività/dashboard/Dasboard.md)
+- [Dashboard di Monitoraggio: Un pannello per monitorare vari KPI e metriche.](produttività/dashboard/Dashboard.md)
 
 ### Settore Sociale
 
