@@ -14,7 +14,7 @@
 
 #### Codice di Esempio per l'API RESTful in Django
 
-\`\`\`python
+```python
 from rest_framework import serializers, viewsets
 from .models import Task
 
@@ -26,11 +26,11 @@ class TaskSerializer(serializers.ModelSerializer):
 class TaskViewSet(viewsets.ModelViewSet):
     queryset = Task.objects.all()
     serializer_class = TaskSerializer
-\`\`\`
+```
 
 #### Codice di Esempio per la Chiamata API in React
 
-\`\`\`javascript
+```javascript
 import axios from 'axios';
 
 axios.get('/api/tasks/')
@@ -38,7 +38,7 @@ axios.get('/api/tasks/')
          const tasks = response.data;
          // Aggiornare lo stato del componente con i dati ricevuti
      });
-\`\`\`
+```
 
 ### Architettura a Microservizi
 
@@ -53,14 +53,14 @@ axios.get('/api/tasks/')
 
 #### Codice di Esempio per la Comunicazione tra Microservizi in Django
 
-\`\`\`python
+```python
 import requests
 
 def fetch_aggregated_task_data():
     response = requests.get('http://task-service/api/tasks/aggregated')
     if response.status_code == 200:
         return response.json()
-\`\`\`
+```
 
 #### Considerazioni di Scalabilità e Distribuzione
 
