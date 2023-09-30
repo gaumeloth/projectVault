@@ -2,9 +2,9 @@
 Questo repository è una raccolta delle mie idee per vari progetti. Ogni idea è organizzata in una cartella separata e contiene ulteriori dettagli e appunti.
 
 ## Indice dei Progetti
-1. [raccolta_idee_progetti](./raccolta_idee_progetti/): Idee e documentazione riguardante la gestione dell'itera repository
-2. [WebApp_collab](./WebApp_collab/): Progetto per un applicazione web da sviluppare assieme
-3. [archphone](./archphone/): Arch Linux su Dispositivi Mobili: Una Guida Completa alla Telefonia e alla Messaggistica
+1. [raccolta_idee_progetti](./raccolta_idee_progetti/README.md): Idee e documentazione riguardante la gestione dell'itera repository
+2. [WebApp_collab](./WebApp_collab/README.md): Progetto per un applicazione web da sviluppare assieme
+3. [archphone](./archphone/README.md): Arch Linux su Dispositivi Mobili: Una Guida Completa alla Telefonia e alla Messaggistica
 ?. [Nome del Progetto](./NomeCartellaProgetto/README.md) - Breve descrizione del progetto 3
 
 ## Come Utilizzare Questo Repository Per aggiungere una nuova idea:
@@ -17,7 +17,8 @@ Questo repository è una raccolta delle mie idee per vari progetti. Ogni idea è
 Se sei su un sistema Unix-like, puoi utilizzare lo script di automazione `add_project.sh` per aggiungere una nuova idea in modo più rapido e strutturato. Ecco come fare:
 1. Apri il terminale e naviga alla cartella del repository.
 2. Esegui lo script utilizzando il comando seguente:
-```bash ./add_project.sh "Nome del Progetto" "Breve descrizione del progetto"
+```bash
+./add_project.sh "Nome del Progetto" "Breve descrizione del progetto"
 ``` 
 
 Questo creerà una nuova cartella con il nome del progetto, aggiungerà un file `README.md` con la descrizione fornita e aggiornerà automaticamente questo README principale.
@@ -25,7 +26,8 @@ Questo creerà una nuova cartella con il nome del progetto, aggiungerà un file 
 **Nota**: Assicurati di rendere lo script eseguibile prima di utilizzarlo. Puoi farlo con il comando `chmod +x add_project.sh`. 
 
 Esempio:
-```bash chmod +x add_project.sh ./add_project.sh "Progetto di Esempio" "Questo è un progetto di esempio."
+```bash
+chmod +x add_project.sh ./add_project.sh "Progetto di Esempio" "Questo è un progetto di esempio."
 ```
 
 ## Struttura del Repository
