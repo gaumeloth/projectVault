@@ -41,4 +41,4 @@ chmod +x add_project.sh ./add_project.sh "Progetto di Esempio" "Questo è un pro
 - `archive` contiene idee che sono state messe in pausa o abbandonate.
 
 ## Licenza
-Questo progetto è distribuito sotto la Licenza GPLv3 - vedi il file [LICENSE.md](LICENSE.md) per i dettagli.
+Questo progetto è distribuito sotto la Licenza GPLv3 - vedi il file [LICENSE](LICENSE) per i dettagli.
