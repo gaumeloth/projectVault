@@ -5,7 +5,7 @@ Questo repository è una raccolta delle mie idee per vari progetti. Ogni idea è
 1. [raccolta_idee_progetti](./raccolta_idee_progetti/README.md): Idee e documentazione riguardante la gestione dell'itera repository
 2. [WebApp_collab](./WebApp_collab/README.md): Progetto per un applicazione web da sviluppare assieme
 3. [archphone](./archphone/README.md): Arch Linux su Dispositivi Mobili: Una Guida Completa alla Telefonia e alla Messaggistica
-?. [Nome del Progetto](./NomeCartellaProgetto/README.md) - Breve descrizione del progetto 3
+- [progetto_inesistente](./progetto_inesistente/README.md): descrizione inutile, funzionerà il nuovo script add.project.sh?n<!-- PROJECTS_LIST -->
 
 ## Come Utilizzare Questo Repository Per aggiungere una nuova idea:
 ### Aggiungere una Nuova Idea Manualmente
@@ -42,4 +42,3 @@ chmod +x add_project.sh ./add_project.sh "Progetto di Esempio" "Questo è un pro
 
 ## Licenza
 Questo progetto è distribuito sotto la Licenza GPLv3 - vedi il file [LICENSE](LICENSE) per i dettagli.
-- [progetto_inesistente](./progetto_inesistente/README.md): descrizione inutile, funzionerà il nuovo script add.project.sh?
