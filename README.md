@@ -42,3 +42,4 @@ chmod +x add_project.sh ./add_project.sh "Progetto di Esempio" "Questo è un pro
 
 ## Licenza
 Questo progetto è distribuito sotto la Licenza GPLv3 - vedi il file [LICENSE](LICENSE) per i dettagli.
+- [progetto_inesistente](./progetto_inesistente/README.md): descrizione inutile, funzionerà il nuovo script add.project.sh?
