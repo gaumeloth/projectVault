@@ -2,9 +2,9 @@
 Questo repository è una raccolta delle mie idee per vari progetti. Ogni idea è organizzata in una cartella separata e contiene ulteriori dettagli e appunti.
 
 ## Indice dei Progetti
-1. [raccolta_idee_progetti](./raccolta_idee_progetti/README.md): Idee e documentazione riguardante la gestione dell'itera repository
-2. [WebApp_collab](./WebApp_collab/README.md): Progetto per un applicazione web da sviluppare assieme
-3. [archphone](./archphone/README.md): Arch Linux su Dispositivi Mobili: Una Guida Completa alla Telefonia e alla Messaggistica
+1. [raccolta_idee_progetti](./raccolta_idee_progetti/README.md) **[D]**: Idee e documentazione riguardante la gestione dell'itera repository
+2. [WebApp_collab](./WebApp_collab/README.md) **[IC]**: Progetto per un applicazione web da sviluppare assieme
+3. [archphone](./archphone/README.md) **[IC]**: Arch Linux su Dispositivi Mobili: Una Guida Completa alla Telefonia e alla Messaggistica
 <!-- PROJECTS_LIST -->
 
 ## Come Utilizzare Questo Repository Per aggiungere una nuova idea:
