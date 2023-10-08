@@ -5,6 +5,7 @@ Questo repository è una raccolta delle mie idee per vari progetti. Ogni idea è
 1. [raccolta_idee_progetti](./raccolta_idee_progetti/README.md) **[D]**: Idee e documentazione riguardante la gestione dell'itera repository
 2. [WebApp_collab](./WebApp_collab/README.md) **[IC]**: Progetto per un applicazione web da sviluppare assieme
 3. [archphone](./archphone/README.md) **[IC]**: Arch Linux su Dispositivi Mobili: Una Guida Completa alla Telefonia e alla Messaggistica
+4. [Godot_2D_topdown_shooter](./Godot_2D_topdown_shooter/README.md): mio primo progetto con il motore grafico FOSS Godot per imparare a sviluppare videogiochi
 <!-- PROJECTS_LIST -->
 
 ## Come Utilizzare Questo Repository Per aggiungere una nuova idea:

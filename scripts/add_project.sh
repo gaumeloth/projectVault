@@ -1,5 +1,14 @@
 #!/bin/bash
 
+# Ottenere il percorso assoluto dello script corrente
+script_dir="$(dirname "$(readlink -f "$0")")"
+
+# Navigare alla cartella root del progetto. Questo presuppone che la cartella 'scripts'
+# sia sempre una sottocartella diretta della root del progetto.
+project_root="$(dirname "$script_dir")"
+
+# Cambiare la directory corrente alla root del progetto
+cd "$project_root" || { echo "Failed to change to project root directory"; exit 1; }
 
 # Function to check if sufficient arguments are provided.
     # Exit the script if the number of arguments is not equal to 2.
